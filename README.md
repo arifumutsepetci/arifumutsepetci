@@ -1,7 +1,7 @@
 ## Hi there, I'm Umut! 👋
 
 #### My name is Umut and I am a fullstack developer from Turkey.
-##### I feel more comfortable as a backend developer though. Also, I have experience in different areas namely front-end development and system administration.
+##### I feel more comfortable as a backend developer though. Also, I have experience in system administration as well.
 
 <h5 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> </a>
